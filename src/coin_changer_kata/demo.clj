@@ -1,4 +1,4 @@
-(ns proto-repl-demo.demo)
+(ns coin_changer_kata.demo)
 
 (defn add-numbers
   "Adds two numbers."

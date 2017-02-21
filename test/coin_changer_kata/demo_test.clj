@@ -1,6 +1,6 @@
-(ns proto-repl-demo.demo-test
+(ns coin_changer_kata.demo-test
   (:require [clojure.test :refer :all]
-            [proto-repl-demo.demo :as d]))
+            [coin_changer_kata.demo :as d]))
 
 (deftest add-numbers-test
   (testing "Add two numbers"
